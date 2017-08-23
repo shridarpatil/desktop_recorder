@@ -9,7 +9,7 @@ Desktop Screen recorder
 .. image:: https://img.shields.io/travis/shridarpatil/desktop_recorder.svg
         :target: https://travis-ci.org/shridarpatil/desktop_recorder
 
-.. image:: https://readthedocs.org/projects/desktop-screen-recorder/badge/?version=latest
+.. image:: https://readthedocs.org/projects/desktop-recorder/badge/?version=latest
         :target: https://desktop-recorder.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
