@@ -22,13 +22,13 @@ Record descktop screen
 
 
 * Free software: MIT license
-* Documentation: https://desktop-screen-recorder.readthedocs.io.
+* Documentation: https://desktop-recorder.readthedocs.io.
 
 
 Features
 --------
 
-* TODO
+* Record Desktop Screen
 
 Credits
 ---------
